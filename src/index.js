@@ -9,7 +9,7 @@ import getUserId from "./util/getUserId";
 import getClientKey from "./util/getClientKey";
 import KeyForm from "./components/keyForm";
 
-// const CLIENTKEY = "63ea528ee871791399779bc8"; // let's update this to be stored in git in the future
+const CLIENTKEY = "64b544dceb4050144215aa55";
 const CLIENT_KEY = getClientKey();
 
 let id = getUserId();
